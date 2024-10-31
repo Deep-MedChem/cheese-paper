@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="httpgd" width="410.00" height="533.00" viewBox="0 0 328.00 426.40">
+<defs>
+  <style type='text/css'><![CDATA[
+    .httpgd line, .httpgd polyline, .httpgd polygon, .httpgd path, .httpgd rect, .httpgd circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+<clipPath id="c0"><rect x="0.00" y="0.00" width="328.00" height="426.40"/></clipPath>
+</defs>
+<rect width="100%" height="100%" style="stroke: none;fill: #FFFFFF;"/>
+<g clip-path="url(#c0)">
+<polyline points="42.32,390.55 321.03,390.55" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<polyline points="42.32,144.29 321.03,144.29" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<polyline points="74.48,390.55 74.48,49.83" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<polyline points="128.07,390.55 128.07,49.83" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<polyline points="181.67,390.55 181.67,49.83" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<polyline points="235.27,390.55 235.27,49.83" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<polyline points="288.87,390.55 288.87,49.83" style="stroke-width: 1.36;stroke: #EBEBEB;stroke-linecap: butt;"/>
+<line x1="74.48" y1="221.33" x2="74.48" y2="90.48" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<line x1="74.48" y1="368.18" x2="74.48" y2="390.55" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<polygon points="54.38,221.33 54.38,368.18 94.58,368.18 94.58,221.33 54.38,221.33" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;fill: #F8766D;" />
+<line x1="54.38" y1="288.35" x2="94.58" y2="288.35" style="stroke-width: 2.13;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;"/>
+<line x1="128.07" y1="227.94" x2="128.07" y2="66.05" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<line x1="128.07" y1="390.55" x2="128.07" y2="390.55" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<polygon points="107.98,227.94 107.98,390.55 148.17,390.55 148.17,227.94 107.98,227.94" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;fill: #A3A500;" />
+<line x1="107.98" y1="288.35" x2="148.17" y2="288.35" style="stroke-width: 2.13;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;"/>
+<line x1="181.67" y1="327.51" x2="181.67" y2="300.91" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<line x1="181.67" y1="390.55" x2="181.67" y2="390.55" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<polygon points="161.57,327.51 161.57,390.55 201.77,390.55 201.77,327.51 161.57,327.51" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;fill: #00BF7D;" />
+<line x1="161.57" y1="372.33" x2="201.77" y2="372.33" style="stroke-width: 2.13;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;"/>
+<line x1="235.27" y1="324.80" x2="235.27" y2="270.37" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<line x1="235.27" y1="390.55" x2="235.27" y2="390.55" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<polygon points="215.17,324.80 215.17,390.55 255.37,390.55 255.37,324.80 215.17,324.80" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;fill: #00B0F6;" />
+<line x1="215.17" y1="372.33" x2="255.37" y2="372.33" style="stroke-width: 2.13;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;"/>
+<line x1="288.87" y1="343.14" x2="288.87" y2="292.05" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<line x1="288.87" y1="390.55" x2="288.87" y2="390.55" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;"/>
+<polygon points="268.77,343.14 268.77,390.55 308.97,390.55 308.97,343.14 268.77,343.14" style="stroke-width: 1.07;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;fill: #E76BF3;" />
+<line x1="268.77" y1="390.55" x2="308.97" y2="390.55" style="stroke-width: 2.13;stroke: #333333;stroke-linecap: butt;stroke-linejoin: miter;"/>
+<g><text x="36.04" y="394.56" text-anchor="end" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="12.44px" lengthAdjust="spacingAndGlyphs">00</text></g>
+<g><text x="36.04" y="148.30" text-anchor="end" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="12.44px" lengthAdjust="spacingAndGlyphs">10</text></g>
+<g><text x="74.48" y="404.85" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="45.99px" lengthAdjust="spacingAndGlyphs">CHEESE</text></g>
+<g><text x="74.48" y="416.95" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="49.74px" lengthAdjust="spacingAndGlyphs">Shapesim</text></g>
+<g><text x="128.07" y="404.85" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="45.99px" lengthAdjust="spacingAndGlyphs">CHEESE</text></g>
+<g><text x="128.07" y="416.95" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="36.67px" lengthAdjust="spacingAndGlyphs">Espsim</text></g>
+<g><text x="181.67" y="404.85" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="36.05px" lengthAdjust="spacingAndGlyphs">ECFP4</text></g>
+<g><text x="235.27" y="404.85" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="34.81px" lengthAdjust="spacingAndGlyphs">Surflex</text></g>
+<g><text x="235.27" y="416.95" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="25.49px" lengthAdjust="spacingAndGlyphs">Dock</text></g>
+<g><text x="288.87" y="404.85" text-anchor="middle" style="font-family: Arial;font-size: 11.20px;fill: #4D4D4D;" textLength="32.32px" lengthAdjust="spacingAndGlyphs">ROCS</text></g>
+<g><text transform="translate(17.02,220.19) rotate(-90.00)" text-anchor="middle" style="font-family: Arial;font-size: 14.00px;" textLength="38.12px" lengthAdjust="spacingAndGlyphs">EF1%</text></g>
+<g><text x="42.32" y="39.76" style="font-family: Arial;font-size: 14.00px;" textLength="90.65px" lengthAdjust="spacingAndGlyphs">EF1% (n = 15)</text></g>
+<g><text x="42.32" y="19.03" style="font-family: Arial;font-size: 16.80px;" textLength="259.47px" lengthAdjust="spacingAndGlyphs">Lit-PCBA Benchmark Performance</text></g>
+</g>
+</svg>

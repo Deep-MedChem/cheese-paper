@@ -1,0 +1,15 @@
+variable,kind,value
+CHEESE Shapesim,mean,0.759
+CHEESE Shapesim,sd,0.180
+CHEESE Espsim,mean,0.733
+CHEESE Espsim,sd,0.220
+Spark,mean,0.783
+Spark,sd,0.166
+Glide,mean,0.636
+Glide,sd,0.178
+Smina,mean,0.373
+Smina,sd,0.223
+RdKit Fingerprints,mean,0.595
+RdKit Fingerprints,sd,0.163
+Align Min,mean,0.590
+Align Min,sd,0.147
