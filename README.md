@@ -1,4 +1,5 @@
 # CHEESE: Supplementary Material
+
 [![DOI](https://zenodo.org/badge/881508101.svg)](https://doi.org/10.5281/zenodo.14019962)
 
 Welcome in CHEESE paper supplementary material. Here you can find additional information and data that was not included in the main manuscript as well as detailed result .csv files and even R scripts used to generate the figures.
@@ -21,7 +22,11 @@ Welcome in CHEESE paper supplementary material. Here you can find additional inf
 │   ├── batch_boxplot_scaled.svg
 │   ├── batch_ef1_litpcba.csv
 │   ├── batch_heatmap.svg
+│   ├── batch_plots copy.R
 │   ├── batch_plots.R
+│   ├── batch_pooling.R
+│   ├── batch_pooling_median_esp.csv
+│   ├── batch_pooling_median_shape.csv
 │   ├── single_boxplot.svg
 │   ├── single_ef1_litpcba.csv
 │   ├── single_heatmap.svg

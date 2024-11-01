@@ -1,0 +1,12 @@
+"Pooling_Method","median_val"
+"Minimum Inactive",0
+"Mean Similarity",0
+"Centroid Maximum",0
+"Centroid Inactive",0
+"Centroid Max-Min",3.26888485446803
+"Optimal Transport",3.64
+"Weighted KNN",3.8632275552804
+"Batch K-NN",4.15010040160643
+"Chamfer Similarity",4.15010040160643
+"Maximum Similarity",4.15010040160643
+"Active Inactive Contrast",4.15010040160643
